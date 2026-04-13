@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+authors:
+- family-names: "Aliev"
+  given-names: "Elshan"
+  orcid: "https://vc.ru/id5878447"
+title: "A-CODE Protocol: AC-2026-INF Security Standard"
+version: 185.1
+date-released: 2026-04-13
+url: "https://github.com/Entonialiev/aicode-protocol"
